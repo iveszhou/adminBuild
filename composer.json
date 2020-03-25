@@ -1,0 +1,28 @@
+{
+  "name": "iveszhou/adminBuild",
+  "description": "自动构建后台",
+  "type": "project",
+  "keywords": [
+    "thinkphp"
+  ],
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "zhouzheng",
+      "email": "iveszhou@foxmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0",
+    "topthink/framework": "^6.0.0",
+    "topthink/think-orm": "^2.0",
+    "topthink/think": "^6.0.0"
+  },
+  "minimum-stability": "dev",
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}
